@@ -1,0 +1,16 @@
+Area of Alfalfa ==  9432.41 square metre
+Area of Corn-notill ==  11075.21 square metre
+Area of Corn-mintill ==  876.16 square metre
+Area of Corn ==  9665.14 square metre
+Area of Grass-pasture ==  7310.46 square metre
+Area of Grass-trees ==  41.07 square metre
+Area of Grass-pasture-mowed ==  2505.27 square metre
+Area of Hay-windrowed ==  13.69 square metre
+Area of Oats ==  29652.54 square metre
+Area of Soybean-notill ==  31281.65 square metre
+Area of Soybean-mintill ==  8528.87 square metre
+Area of Soybean-clean ==  1492.21 square metre
+Area of Wheat ==  23177.17 square metre
+Area of Woods ==  3559.40 square metre
+Area of Buildings-Grass-Trees-Drives ==  149221.00 square metre
+Area of Background ==  0.00 square metre
